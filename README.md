@@ -1,9 +1,8 @@
 # KeepDeepLearning
 MÓDULO DE DEEP LEARNING: ANÁLISIS DE DATOS TABULARES E IMÁGENES
 
-# Proyecto de Análisis y Optimización
-
-Este proyecto organiza los archivos y carpetas de la siguiente manera:
+## Descripción General
+Este proyecto tiene como objetivo estimar el nivel de engagement en puntos de interés (POIs) mediante el desarrollo de un modelo de Deep Learning que combina datos tabulares y características de imágenes. El análisis incluye la optimización de hiperparámetros, técnicas de transferencia de aprendizaje y visualización de resultados.
 
 ## Estructura del Proyecto
 
